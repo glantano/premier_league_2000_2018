@@ -13,7 +13,7 @@
 * Realizar diagrama de dispersión por Equipos 
 
 ------------
-### **Explicación de Datos Importantes: **
+### Explicación de Datos Importantes: 
 Keys  | Contenido
 ------------- | -------------
 **Div ** | League Division
@@ -45,6 +45,4 @@ Keys  | Contenido
 **HR** | Home Team Red Cards
 **AR** | Away Team Red Cards
 
-**Nota: **Para más descripción del dataset ver archivo "Explicación_Dataset.txt"
-
-------------
+**Nota:** Para más descripción del dataset ver archivo "Explicación_Dataset.txt"
